@@ -21,7 +21,7 @@ Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/git.svg" title="Git" alt="git" width="40" height="40"></a>
 
 <h3>Connect with me:</h3>
-<p><strong><a href="mailto:neutrinoandquarkisfermion@gmail.com">neutrinoandquarkisfermion@gmail.com</a></strong></p>
+<!-- <p><strong><a href="mailto:neutrinoandquarkisfermion@gmail.com">neutrinoandquarkisfermion@gmail.com</a></strong></p> -->
 <p>
   <a href="https://t.me/max1983ship">
   <img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/Telegram.svg" title="Telegram" alt="Telegram" width="40" height="40">
