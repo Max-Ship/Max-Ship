@@ -20,7 +20,7 @@ Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/figma.svg" title="Figma" alt="figma" width="40" height="40"></a>
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/git.svg" title="Git" alt="git" width="40" height="40"></a>
 
-<h3>Connect with me:</h3>
+<h3>Connect me:</h3>
 <!-- <p><strong><a href="mailto:neutrinoandquarkisfermion@gmail.com">neutrinoandquarkisfermion@gmail.com</a></strong></p> -->
 <p>
   <a href="https://t.me/max1983ship">
