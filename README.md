@@ -4,7 +4,7 @@ Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 <h3 align="center">I am a fullstack python developer</h3>
 
 <ul>
-  <li>💻 I’m currently learning <strong>React, Flask, Docker</strong></li>
+  <li>💻 I’m currently learning <strong>Flask, Docker</strong></li>
   <li>🌍 I speak Russian (native), English (A1)</li>
 </ul>
 
