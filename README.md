@@ -23,10 +23,10 @@
 <h4>Tools & Workflow:</h4>
 <table>
   <tr>
-    <td border="0"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"></td>
-    <td border="0"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/VS-code.svg" title="VS Code" alt="VS Code" width="40" height="40"></td>
-    <td border="0"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"></td>
-    <td border="0"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/git.svg" title="Git" alt="Git" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/VS-code.svg" title="VS Code" alt="VS Code" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/git.svg" title="Git" alt="Git" width="40" height="40"></td>
   </tr>
 </table>
 
