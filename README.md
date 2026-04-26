@@ -11,8 +11,7 @@ Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" he
 <h4>Languages:</h4>
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"></a>
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"></a>
-<a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="50"></a>
-<a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="python" width="40" height="40"></a>
+<a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="50"></a><a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="python" width="40" height="40"></a>
 
 <h4>Tools:</h4>
 <a  href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"></a>
