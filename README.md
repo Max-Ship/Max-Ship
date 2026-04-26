@@ -12,8 +12,7 @@
 
 <h4>Languages & Tech:</h4>
 <p>
-<a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"></a>
-<a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"></a>
+<img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"> <img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40">
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"></a>
 </p>
