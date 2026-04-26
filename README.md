@@ -12,17 +12,19 @@
 
 <h4>Languages & Tech:</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<a href="#" style="float: left; margin-right: 10px;"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"></a>
-<a href="#" style="float: left; margin-right: 10px;"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="50"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"></a>
 </div>
 
 <h4>Tools & Workflow:</h4>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/Bash.svg" title="Bash" alt="Bash" width="40" height="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/VS-code.svg" title="VS Code" alt="VS Code" width="40" height="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"></a>
 <a href="#"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/git.svg" title="Git" alt="Git" width="40" height="40"></a>
+</div>
 
 <h3>Connect me:</h3>
 <p>
