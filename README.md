@@ -11,9 +11,14 @@
 </ul>
 
 <h4>Languages & Tech:</h4>
-<p>
-<img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg" title="HTML5" alt="HTML5" width="40" height="40"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="50"><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="Python" width="40" height="40">
-</p>
+<table>
+  <tr>
+    <td><img src="[https://githubusercontent.com](https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/HTML5.svg)" title="HTML5" alt="HTML5" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/CSS3.svg" title="CSS3" alt="CSS3" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="50"></td>
+    <td><img src="https://raw.githubusercontent.com/Max-Ship/Max-Ship/main/icons/python.svg" title="Python" alt="Python" width="40" height="40"></td>
+  </tr>
+</table>
 
 <h4>Tools & Workflow:</h4>
 <p>
